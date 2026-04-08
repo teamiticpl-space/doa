@@ -28,8 +28,23 @@ export type MonthPrediction = {
 
 export type Predictions = Record<string, Record<string, MonthPrediction>>;
 
+// Sanitize predictions data: some entries have corrupted "problems" as string
+function sanitizePredictions(raw: Record<string, unknown>): Predictions {
+  const result: Predictions = {};
+  for (const [plant, months] of Object.entries(raw)) {
+    result[plant] = {};
+    for (const [month, info] of Object.entries(months as Record<string, { total: number; problems: unknown }>)) {
+      result[plant][month] = {
+        total: info.total ?? 0,
+        problems: Array.isArray(info.problems) ? info.problems : [],
+      };
+    }
+  }
+  return result;
+}
+
 export const plants: string[] = plantsList;
-export const predictions: Predictions = predictionsData as Predictions;
+export const predictions: Predictions = sanitizePredictions(predictionsData as Record<string, unknown>);
 export const records: PestRecord[] = pestRecords as PestRecord[];
 
 export const THAI_MONTHS = [
