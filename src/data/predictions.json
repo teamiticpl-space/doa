@@ -62,7 +62,7 @@
     },
     "5": {
       "total": 3,
-      "problems": "[object Object][object Object]"
+      "problems": []
     },
     "7": {
       "total": 1,
@@ -278,19 +278,19 @@
     },
     "5": {
       "total": 19,
-      "problems": "[object Object],[object Object],[object Object],[object Object],[object Object][object Object]"
+      "problems": []
     },
     "6": {
       "total": 14,
-      "problems": "[object Object],[object Object],[object Object],[object Object],[object Object][object Object]"
+      "problems": []
     },
     "7": {
       "total": 14,
-      "problems": "[object Object],[object Object],[object Object],[object Object],[object Object][object Object]"
+      "problems": []
     },
     "8": {
       "total": 17,
-      "problems": "[object Object],[object Object],[object Object],[object Object],[object Object][object Object]"
+      "problems": []
     },
     "9": {
       "total": 18,
@@ -1806,11 +1806,11 @@
   "หอมแดง": {
     "1": {
       "total": 10,
-      "problems": "[object Object][object Object][object Object][object Object],[object Object],[object Object]"
+      "problems": []
     },
     "2": {
       "total": 7,
-      "problems": "[object Object],[object Object],[object Object][object Object],[object Object]"
+      "problems": []
     },
     "5": {
       "total": 3,
@@ -1824,7 +1824,7 @@
     },
     "6": {
       "total": 3,
-      "problems": "[object Object][object Object]"
+      "problems": []
     },
     "7": {
       "total": 1,
@@ -1848,15 +1848,15 @@
     },
     "10": {
       "total": 7,
-      "problems": "[object Object],[object Object],[object Object][object Object][object Object]"
+      "problems": []
     },
     "11": {
       "total": 11,
-      "problems": "[object Object],[object Object][object Object],[object Object][object Object]"
+      "problems": []
     },
     "12": {
       "total": 8,
-      "problems": "[object Object],[object Object],[object Object],[object Object][object Object][object Object]"
+      "problems": []
     }
   },
   "อ้อย": {
@@ -5779,7 +5779,7 @@
     },
     "11": {
       "total": 16,
-      "problems": "[object Object],[object Object],[object Object],[object Object],[object Object][object Object]"
+      "problems": []
     },
     "12": {
       "total": 7,
@@ -6807,7 +6807,7 @@
     },
     "5": {
       "total": 2,
-      "problems": "[object Object][object Object]"
+      "problems": []
     },
     "7": {
       "total": 2,
@@ -7375,7 +7375,7 @@
   "พืชตระกูลกะหล่ำ": {
     "1": {
       "total": 3,
-      "problems": "[object Object],[object Object][object Object]"
+      "problems": []
     },
     "4": {
       "total": 1,
@@ -7389,11 +7389,11 @@
     },
     "5": {
       "total": 2,
-      "problems": "[object Object][object Object]"
+      "problems": []
     },
     "6": {
       "total": 4,
-      "problems": "[object Object][object Object][object Object],[object Object]"
+      "problems": []
     },
     "7": {
       "total": 1,
@@ -7562,7 +7562,7 @@
     },
     "4": {
       "total": 4,
-      "problems": "[object Object][object Object]"
+      "problems": []
     },
     "5": {
       "total": 1,
@@ -7576,11 +7576,11 @@
     },
     "6": {
       "total": 7,
-      "problems": "[object Object][object Object][object Object],[object Object],[object Object],[object Object]"
+      "problems": []
     },
     "7": {
       "total": 5,
-      "problems": "[object Object][object Object][object Object],[object Object],[object Object]"
+      "problems": []
     },
     "8": {
       "total": 3,
@@ -7629,7 +7629,7 @@
     },
     "10": {
       "total": 6,
-      "problems": "[object Object][object Object],[object Object],[object Object],[object Object],[object Object]"
+      "problems": []
     },
     "11": {
       "total": 4,
@@ -7819,7 +7819,7 @@
     },
     "9": {
       "total": 2,
-      "problems": "[object Object][object Object]"
+      "problems": []
     },
     "10": {
       "total": 1,
@@ -7979,7 +7979,7 @@
     },
     "10": {
       "total": 5,
-      "problems": "[object Object],[object Object][object Object],[object Object],[object Object]"
+      "problems": []
     },
     "11": {
       "total": 2,
@@ -7993,7 +7993,7 @@
     },
     "12": {
       "total": 3,
-      "problems": "[object Object][object Object]"
+      "problems": []
     }
   },
   "ส้มเขียวหวาน": {
@@ -8296,7 +8296,7 @@
     },
     "5": {
       "total": 7,
-      "problems": "[object Object][object Object],[object Object],[object Object]"
+      "problems": []
     },
     "6": {
       "total": 2,
@@ -8493,7 +8493,7 @@
   "หอมหัวใหญ่": {
     "1": {
       "total": 7,
-      "problems": "[object Object],[object Object][object Object]"
+      "problems": []
     },
     "2": {
       "total": 1,
@@ -8808,7 +8808,7 @@
   "ผักสลัด": {
     "5": {
       "total": 2,
-      "problems": "[object Object][object Object]"
+      "problems": []
     },
     "6": {
       "total": 1,
@@ -8883,7 +8883,7 @@
   "หอมแดงหัวพันธุ์": {
     "5": {
       "total": 3,
-      "problems": "[object Object][object Object]"
+      "problems": []
     },
     "6": {
       "total": 3,
@@ -8924,7 +8924,7 @@
     },
     "8": {
       "total": 2,
-      "problems": "[object Object][object Object]"
+      "problems": []
     },
     "9": {
       "total": 1,
@@ -9199,7 +9199,7 @@
   "พืชตระกูลกะหล่ำและผักกาด": {
     "1": {
       "total": 4,
-      "problems": "[object Object],[object Object][object Object]"
+      "problems": []
     },
     "2": {
       "total": 3,
@@ -9283,7 +9283,7 @@
     },
     "11": {
       "total": 9,
-      "problems": "[object Object][object Object],[object Object],[object Object]"
+      "problems": []
     },
     "12": {
       "total": 3,
